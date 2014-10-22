@@ -3,8 +3,7 @@ Change after stage
 Test diff
 4
 5
-five2
-six
+6
 7
 9
 1
